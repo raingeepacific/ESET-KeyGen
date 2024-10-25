@@ -1,4 +1,4 @@
-name: Generator
+name: Generator and Send to Discord
 
 on:
   workflow_dispatch:
